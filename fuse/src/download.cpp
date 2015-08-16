@@ -124,13 +124,6 @@ int main(int argc, char **argv)
 		"curl -s file:///home/guest/split-00.split",
 		"curl -s file:///home/guest/split-01.split",
 		"curl -s file:///home/guest/split-02.split",
-		//"curl -s ftp://***REMOVED***@localhost/split-01.split",
-		"curl -s -k http://***REMOVED***/gang/tmpdir/split-02.split",
-		"curl -s ftp://***REMOVED***@localhost/split-03.split",
-		"curl -s -k http://***REMOVED***/gang/tmpdir/split-02.split",
-		"curl -s -k http://***REMOVED***/gang/tmpdir/split-02.split",
-		"curl -s -k http://***REMOVED***/gang/tmpdir/split-02.split",
-		"curl -s -k https://***REMOVED***/gang/tmpdir/split-02.split",
 	};
 
 

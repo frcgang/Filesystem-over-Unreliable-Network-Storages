@@ -26,8 +26,6 @@ const char *my_server[] = {
 		(char *)"file:///home/gang/workspace/dfs/storage/",
 		(char *)"file:///home/gang/workspace/dfs/storage/",
 		(char *)"file:///home/gang/workspace/dfs/storage/",
-		(char *)"ftp://***REMOVED***/gang/tmp/",
-		(char *)"ftp://***REMOVED***@localhost/",
 		(char *)"",
 		(char *)"",
 		(char *)"",

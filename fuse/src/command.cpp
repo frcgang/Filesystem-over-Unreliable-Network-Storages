@@ -150,8 +150,6 @@ int main(int argc, char **argv)
 		"file:///home/gang/workspace/dfs/storage/",
 		"file:///home/gang/workspace/dfs/storage/",
 		"file:///home/gang/workspace/dfs/storage/",
-		"ftp://***REMOVED***/gang/tmp/",
-		"ftp://***REMOVED***@localhost/",
 	};
 
 	UpDownCommand cmd(filename, (char *)"openssl", password,
